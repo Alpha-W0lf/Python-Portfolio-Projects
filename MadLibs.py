@@ -8,10 +8,12 @@
 # print("subscribe to {}".format(youtuber))
 # print(f"subscribe to {youtuber}")
 
-adj = input("Adjective:")
+adj = input("Adjective: ")
 verb1 = input("Verb: ")
 verb2 = input("Verb: ")
 famous_person = input("Famous person: ")
 
-madlib = f"Computer programming is so {adj}! It makes me so excited all the time because I love to {verb1}. Stay " \
-         f"hydrated and {verb2} like you are {famous_person}!"
+madlib = f"Blockchain is futuristic and {adj}. I'm always eager to learn more and {verb1}. Some people have fun " \
+         f"when they {verb2}. {famous_person} has fun when they buy more bitcoin!!"
+
+print(madlib)
