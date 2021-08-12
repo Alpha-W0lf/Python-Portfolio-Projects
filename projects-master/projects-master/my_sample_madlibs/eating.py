@@ -11,7 +11,7 @@ def madlib():
     food2 = input("Food: ")
     verb2 = input("Verb: ")
     noun1 = input("Noun: ")
-    
+
     madlib = f"I like to {verb1} lunch with my coworkers. These meals are usually {adjective1} and {adjective2} " \
              f"especially since we live and work in {city1}. Every now and then, we come up with a product idea " \
              f"worth ${number1}! My team mate {name1} really likes {food1}, so we eat at {restaurant1} pretty often." \
